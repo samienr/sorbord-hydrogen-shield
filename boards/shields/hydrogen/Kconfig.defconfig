@@ -1,0 +1,17 @@
+if SHIELD_HYDROGEN_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Hydrogen keeb"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+
+if SHIELD_HYDROGEN_LEFT || SHIELD_HYDROGEN_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif

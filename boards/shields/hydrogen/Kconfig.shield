@@ -1,0 +1,5 @@
+config SHIELD_HYDROGEN_LEFT
+    def_bool $(shields_list_contains,hydrogen_left)
+
+config SHIELD_HYDROGEN_RIGHT
+    def_bool $(shields_list_contains,hydrogen_right)
