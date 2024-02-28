@@ -30,7 +30,7 @@
 		symbol_layer {
 		bindings = <
 	&kp GRAVE  &kp LBKT &kp RBKT &kp LBRC  &kp RBRC     &trans          &trans  &trans     	&trans    &trans    &trans 	 &trans
-	&kp PIPE   &trans 	&kp BSLH &kp LPAR  &KP RPAR   	&kp PLUS        &trans  &trans     	&trans    &trans    &trans 	 &trans
+	&kp PIPE   &trans 	&kp BSLH &kp LPAR  &kp RPAR   	&kp PLUS        &trans  &trans     	&trans    &trans    &trans 	 &trans
 	&trans	   &kp STAR &kp DLLR &kp UNDER &kp EQUAL   	&kp MINUS       &trans  &trans     	&trans    &trans    &trans 	 &trans
                                  &kp AMPS  &kp EXCL		&trans			&trans	&trans		&trans
 		>;
