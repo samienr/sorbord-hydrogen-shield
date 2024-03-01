@@ -1,4 +1,4 @@
-if SHIELD_HYDROGEN_LEFT
+if SHIELD_HYDROGEN_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Hydrogen keeb"
